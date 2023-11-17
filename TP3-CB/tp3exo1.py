@@ -45,7 +45,6 @@ def d():
 
 # Partie permettant de choisir l'exercice à exécuter
 choix = input("Choisissez l'exercice à exécuter : ")
-print(choix)
 
 if choix == "a":
     a()
