@@ -1,4 +1,4 @@
-somme = int(input("Entrez la somme : "))
+somme = int(input(f"Entrez la somme : "))
 
 billet100 = somme // 100
 somme = somme % 100
